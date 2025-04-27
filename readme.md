@@ -1,2 +1,2 @@
 ## Hello, Git
-- I am adding this from 'deature-branch'
+- I am adding this from 'feature-branch'
